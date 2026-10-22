@@ -1,0 +1,16 @@
+egzamin – informacje o narzędziach wykorzystanych na egzaminie
+
+Nazwa systemu operacyjnego:
+  Microsoft Windows 11
+
+Nazwy środowisk programistycznych:
+  Microsoft Visual Studio Code (aplikacja konsolowa)
+  Microsoft Visual Studio 2022 / dotnet CLI (aplikacja WPF)
+
+Nazwa emulatora dla aplikacji mobilnej / desktopowej:
+  Wbudowany emulator Windows (uruchomienie natywne na systemie Windows)
+
+Nazwy języków programowania:
+  C# (C Sharp) – aplikacja konsolowa
+  C# (C Sharp) + XAML – aplikacja mobilna (WPF)
+

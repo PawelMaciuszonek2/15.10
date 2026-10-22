@@ -1,0 +1,14 @@
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\bin\Debug\net10.0\AplikacjaKonsolowa.exe
+c:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\bin\Debug\net10.0\AplikacjaKonsolowa.deps.json
+c:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\bin\Debug\net10.0\AplikacjaKonsolowa.runtimeconfig.json
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\bin\Debug\net10.0\AplikacjaKonsolowa.dll
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\bin\Debug\net10.0\AplikacjaKonsolowa.pdb
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.AssemblyInfoInputs.cache
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.AssemblyInfo.cs
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.csproj.CoreCompileInputs.cache
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.dll
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\refint\AplikacjaKonsolowa.dll
+C:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.pdb
+c:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\AplikacjaKonsolowa.genruntimeconfig.cache
+c:\Users\5Tp\Desktop\15.10\konsolowa\AplikacjaKonsolowa\obj\Debug\net10.0\ref\AplikacjaKonsolowa.dll

@@ -1,0 +1,58 @@
+<Window x:Class="AplikacjaMobilna.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Notatki" Height="600" Width="400"
+        ResizeMode="NoResize">
+
+    <!-- Liniowy rozkład z kolorem tła AliceBlue (#F0F8FF) -->
+    <StackPanel Background="#F0F8FF" Margin="10">
+
+        <!-- Tytuł aplikacji -->
+        <TextBlock Text="Notatki"
+                   FontSize="28"
+                   Foreground="#0000CD"
+                   HorizontalAlignment="Center"
+                   Margin="0,10,0,10"/>
+
+        <!-- Lista notatek -->
+        <ListView x:Name="listaNotatek"
+                  Height="200"
+                  Margin="0,0,0,10"
+                  Background="#F0F8FF"
+                  BorderBrush="#0000CD"/>
+
+        <!-- Sekcja dodawania notatki -->
+        <TextBlock Text="Dodanie notatki"
+                   FontSize="18"
+                   Foreground="#0000CD"
+                   Margin="0,5,0,5"/>
+
+        <TextBlock Text="Tytuł notatki: "
+                   Margin="0,5,0,2"/>
+
+        <TextBox x:Name="poleTytul"
+                 Margin="0,0,0,5"
+                 Padding="4"/>
+
+        <TextBlock Text="Treść notatki: "
+                   Margin="0,5,0,2"/>
+
+        <TextBox x:Name="poleTresc"
+                 Margin="0,0,0,10"
+                 Padding="4"
+                 Height="60"
+                 TextWrapping="Wrap"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"/>
+
+        <!-- Przycisk dodania notatki -->
+        <Button x:Name="przyciskDodaj"
+                Content="DODAJ"
+                FontSize="14"
+                Foreground="#0000CD"
+                Padding="10,5"
+                HorizontalAlignment="Center"
+                Click="PrzyciskDodaj_Click"/>
+
+    </StackPanel>
+</Window>
